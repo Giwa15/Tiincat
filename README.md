@@ -1,6 +1,6 @@
 # Tiincat
 
-# Attached below is the Demo lik to the exercise
+# Attached below is the Demo link to the exercise
 
 https://giwa15.github.io/Tiincat/
 
